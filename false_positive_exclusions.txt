@@ -1,6 +1,7 @@
 7Cups
 APClips
 Archive.org
+Bandcamp
 Codolio
 DeviantArt
 Discord.bio
@@ -9,6 +10,7 @@ Giphy
 Hashnode
 Hubski
 LessWrong
+LiveJournal
 LushStories
 Minecraft
 Patched
@@ -22,7 +24,6 @@ Scribd
 Shelf
 SlideShare
 Smule
-SoylentNews
 Splice
 Spotify
 Trovo
@@ -34,4 +35,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster

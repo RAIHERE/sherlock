@@ -29,6 +29,7 @@ Weblate
 YandexMusic
 interpals
 mercadolivre
+minds
 opennet
 phpRU
 svidbook

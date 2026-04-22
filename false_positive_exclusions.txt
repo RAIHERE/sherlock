@@ -12,7 +12,6 @@ Hubski
 LessWrong
 LushStories
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -24,7 +23,6 @@ Smule
 Splice
 Spotify
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 dailykos
@@ -33,4 +31,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster

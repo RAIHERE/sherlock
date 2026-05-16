@@ -13,10 +13,11 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+LessWrong
 LushStories
-Minecraft
-Motherless
+OurDJTalk
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -31,6 +32,8 @@ Trovo
 TryHackMe
 Velomania
 Weblate
+YandexMusic
+authorSTREAM
 dailykos
 igromania
 interpals

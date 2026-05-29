@@ -11,11 +11,11 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+Gravatar
 Hashnode
 Hubski
-LiveJournal
+LessWrong
 LushStories
-Minecraft
 Patched
 Pornhub
 Rarible

@@ -17,7 +17,6 @@ Hubski
 LessWrong
 LushStories
 Odysee
-OurDJTalk
 PCGamer
 Patched
 Rarible
@@ -31,12 +30,14 @@ Shelf
 SlideShare
 Splice
 Spotify
+Star Citizen
 TryHackMe
 Velomania
 Weblate
 YandexMusic
 authorSTREAM
 dailykos
+eintracht
 igromania
 interpals
 mercadolivre

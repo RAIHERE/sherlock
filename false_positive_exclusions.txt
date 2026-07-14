@@ -7,6 +7,7 @@ ArtStation
 Bandcamp
 BreachSta.rs Forum
 Codolio
+DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -15,7 +16,9 @@ Hashnode
 Houzz
 Hubski
 LessWrong
+LiveJournal
 LushStories
+Minecraft
 Odysee
 PCGamer
 Patched
@@ -24,21 +27,19 @@ Realmeye
 Reddit
 Replit.com
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
-Star Citizen
+Strava
+Trovo
 TryHackMe
 Velomania
 Weblate
 YandexMusic
 authorSTREAM
 dailykos
-eintracht
-igromania
 interpals
 mercadolivre
 opennet

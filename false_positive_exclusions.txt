@@ -6,7 +6,6 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-BoardGameGeek
 BreachSta.rs Forum
 Codolio
 DeviantArt
@@ -15,10 +14,8 @@ Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
-Houzz
 Hubski
 LessWrong
-LiveJournal
 LushStories
 Odysee
 PCGamer
@@ -34,6 +31,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Star Citizen
 Trovo
 TryHackMe
 Velomania
